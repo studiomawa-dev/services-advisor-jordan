@@ -1,0 +1,1 @@
+<img src="{{ URL::to('/media/' . (isset($logo) && isset($logo['filename']) && $logo['filename'] != null ? $logo['filename'] : 'noimage.png')) }}" alt="{{ isset($langs) && $langs != null && count($langs) > 0 && $langs[0] != null ? $langs[0]['name'] : '' }}">

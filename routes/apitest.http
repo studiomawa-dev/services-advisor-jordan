@@ -1,0 +1,15 @@
+@hostname = localhost
+@port = 8001
+@host = http://{{hostname}}:{{port}}/api
+@contentType = application/json
+
+@authToken = 36ce88d051f0bb65d3f410861aeb1e5b
+
+
+# @name data
+GET {{host}}/data?lang=en&tag=ibb HTTP/1.1
+content-type: {{contentType}}
+Authorization: Bearer {{authToken}}
+
+
+

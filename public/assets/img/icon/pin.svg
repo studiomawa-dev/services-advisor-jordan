@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="85px" viewBox="0 0 78 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>pin</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20,48.5714286 C33.3333333,35.9573981 40,26.1339631 40,19.1011236 C40,8.55186433 31.045695,-7.10542736e-15 20,-7.10542736e-15 C8.954305,-7.10542736e-15 -2.13162821e-14,8.55186433 -2.13162821e-14,19.1011236 C-2.13162821e-14,26.1339631 6.66666667,35.9573981 20,48.5714286 Z" id="path-1"></path>
+        <filter x="-75.0%" y="-61.8%" width="250.0%" height="223.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.139052662   0 0 0 0 0.14578421   0 0 0 0 0.248188406  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.900000036">
+        <g id="Artboard" transform="translate(-803.000000, -542.000000)">
+            <g id="pin" transform="translate(822.000000, 561.000000)">
+                <g id="Oval-Copy">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#23253F" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="18px" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>tent</title>
+    <desc>Created with Sketch.</desc>
+    <g id="desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-244.000000, -752.000000)" fill="#23253F" fill-rule="nonzero">
+            <g id="tent" transform="translate(244.000000, 752.000000)">
+                <path d="M20.241,7.60380433 C20.2087629,7.36276478 20.084614,7.14351146 19.8945,6.99186733 L11.3850225,0.205831329 C11.0432866,-0.0686104428 10.5567134,-0.0686104428 10.2149775,0.205831329 L1.7055,6.99186733 C1.51538595,7.14351146 1.3912371,7.36276478 1.359,7.60380433 L0,17.9988493 L10.8,17.9988493 L10.8,12.3153988 C10.7989132,12.2405298 10.8489389,12.1745361 10.9213178,12.1553569 C10.9936967,12.1361777 11.0698379,12.1687393 11.1059685,12.2343223 L13.95,17.9988493 L21.6,17.9988493 L20.241,7.60380433 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>
